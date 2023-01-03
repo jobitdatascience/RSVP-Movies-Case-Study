@@ -1,7 +1,9 @@
 ***RSVP-Movies-case-Study***
+
 SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights.
 
 **Problem Introduction**
+
 RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
 
 The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You must analyze the data set and draw meaningful insights that can help them start their new project.
@@ -9,11 +11,13 @@ The production company wants to plan their every move analytically based on data
 You are a data analyst and an SQL expert. You must use SQL to analyze the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script.
 
 **Data Set and Database Creation**
+
 Download the IMDb dataset.
 The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
 Inspect each table given in the subsequent tabs and understand the features associated with each of them.
 Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
 
 **ERD**
+
 
 ![image](https://user-images.githubusercontent.com/121279734/210381692-e578d159-23a4-4210-a78f-05b0a479cc99.png)
